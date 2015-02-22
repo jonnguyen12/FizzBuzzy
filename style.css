@@ -1,0 +1,49 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    display:block;    
+    height: 100%;
+}
+
+body div p {
+    font-size: 24px;
+    font-weight: 300;
+    color: black;
+    text-align:left;
+    padding: 20px;
+}
+
+#title {
+    font-weight: 100;
+    font-size: 40px;
+    width: 100%;
+    color: #f35626;
+    text-align: center;
+    display: block;
+}
+
+.lessontitle {
+        
+}
+
+/*#codecontainer {
+    margin:auto;
+    position:relative;
+    display: block;
+    width: 600px;
+    height: 200px;
+    border: solid 1px #bbb;
+    box-shadow: 0 0 2px;
+}*/
+
+#code {
+    border: solid black 1px;  
+    box-shadow: 0 0 2px;
+    size: 20px;
+    text-align: left;
+}
