@@ -23,12 +23,12 @@ function init() {
         window.addEventListener('keydown', function(e) {
             if(e.keyCode == 39 || e.which == 39) { //right arrowkey
                 console.log('right');
-                window.location = "homepage.html#" + (++currentslide);
+                window.location = "index.html#" + (++currentslide);
             }
                 
             if(e.keyCode == 37 || e.which == 37) { //left arrowkey
                 if(currentslide > 1)
-                    window.location = "homepage.html#" + (--currentslide);
+                    window.location = "index.html#" + (--currentslide);
             }
 
             if(e.keyCode == 38 || e.which == 38) {
