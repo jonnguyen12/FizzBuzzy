@@ -20,10 +20,10 @@
     <div id="2"class="slide">
         <p style="padding: 20px;">Welcome again to FizzBuzzy! This web application aims to teach the basics of computer science to the budding programmer. Although this site intended for elementary and middle school students, anyone interested can follow along. We hope to present information and content in a consice and easy to follow manner. </p>
         <p style="padding: 20px;">Lessons will be provided in a slideshow format, so you can learn at your own pace! </p>
-        <p style="padding: 20px;font-size:20px;color:#CC3300;">A note on system requirements: You must have Javascript enabled to use this site, and a recent compatible browser (IE 10+, and the latest versions of Firefox, Google Chrome or Safari are recommended.) If you don't know what this means, you probably don't have worry about it!</p>
+        <p style="padding: 20px;font-size:20px;color:#CC3300;">A note on system requirements: You must have Javascript enabled to use this site, and a recent compatible browser (IE 10+, and the latest versions of Firefox, Google Chrome or Safari are recommended.) If you don't know what this means, you probably don't have to worry about it!</p>
         <div style="text-align:center;">
             <img src="browsers.png">
-            <p>Ok, now that we have some of the pre-requisites out of the way, lets dive right in! Press the right arrowkey to continue onward! (You can use the left and right arrowkeys to navigate through slides.)</p>  
+            <p>Ok, now that we have some of the pre-requisites out of the way, lets dive right in! Press the right arrow key to continue onward! (You can use the left and right arrow keys to navigate through slides.)</p>  
         <div>
     </div>
     <div id="3"class="slide">
@@ -45,26 +45,26 @@
     </div>
     <div id="5"class="slide">
         <div>
-            <p>Let's talk about the Sudoku puzzle. You might have seen these popular puzzles before, either in newspapers or being played on electronic devices, and some of you may be proud self-proclaimed Sudoku masters. The basic rules of Sudoku are as follows:
+             <p>Let's talk about the Sudoku puzzle. You might have seen these popular puzzles before, either in newspapers or being played on electronic devices, and some of you may be proud self-proclaimed Sudoku masters. To summarize for the non initiated, the basic rules of Sudoku are as follows:
             <br>
             <br><span style="color:#000099;">1.</span> You are given a 9x9 grid with several given numbers.
             <br>
             <br><span style="color:#000099;">2.</span> The goal of the game is to place the numbers 1 through 9 in the empty squares so that each row, each column, and each 3x3 sub square contains only each number once.
             <br><br>If these rules sound simple, well, thats because they are. Of course, solving these puzzles are easier said than done, and require a lot of logic and thinking.
             </p>
-            <div style="width:200px;text-align:left;margin:auto;">
+           <div style="width:200px;text-align:left;margin:auto;">
                 <img src="sudoku1.gif">
             </div> 
         </div>
     </div>
     <div id="6"class="slide">
         <div>
-            <p>Let's consider the Sudoku puzzle. Many of you have probably seen these puzzles before, in newspapers or on phones and tablets, and some of your are might be proud Sudoku masters. The basic rules of Sudoku are as follows:
+            <p>Let's talk about the Sudoku puzzle. You might have seen these popular puzzles before, either in newspapers or being played on electronic devices, and some of you may be proud self-proclaimed Sudoku masters. To summarize for the non initiated, the basic rules of Sudoku are as follows:
             <br>
             <br><span style="color:#000099;">1.</span> You are given a 9x9 grid with several given numbers.
             <br>
             <br><span style="color:#000099;">2.</span> The goal of the game is to place the numbers 1 through 9 in the empty squares so that each row, each column, and each 3x3 sub square contains only each number once.
-            <br>If these rules sound simple, well, thats because they are. Of course, solving these puzzles are easier said than done, and require a lot of logic and thinking.
+            <br><br>If these rules sound simple, well, thats because they are. Of course, solving these puzzles are easier said than done, and require a lot of logic and thinking.
             </p>
             <div style="width:200px;text-align:center;margin:auto;">
                 <img src="sudoku2.gif">
@@ -73,7 +73,7 @@
     </div>
     <div id="7"class="slide">
         <div>
-            <p>So how would you go about solving the puzzle? You would probably use the numbers given to you as a starting point, and from then on use trial and error to try and fill in the other numbers. This is a fair approach, and in fact, if you were to write a computer program to solve Sudoku puzzles, this is how they would go about it. The program would systematically check each number in each position and check to see whether or not it broke any rules. If it did, it would scrap its current solution and try again. <br><br>If this seems like an inefficient approach, well it is. And this is where Computer Science ties in. Computer Science is all about solving puzzles like this. How could we design a program that solves Sudoku in a faster, smarter way? Of course for small puzzles like this 9x9 square, our computers are powerful enough to solve it in milliseconds. But what about a 16x16 square? A 49x49 square? A 100x100 square? As the size of the problem increases, the time needed to solve it increases dramatically, as the computer would need to make more and more guesses before arriving at the correct solution.</p>
+            <p>So how would you go about solving the puzzle? You would probably use the numbers given to you as a starting point, and from then on use trial and error to try and fill in the other numbers. This is a fair approach, and in fact, if you were to write a computer program to solve Sudoku puzzles, this is how the program would go about it. The program would make guesses and systematically check each number in each position and check to see whether or not it broke any rules. If it did, it would scrap its current solution and try again.<br><br>If this seems like an inefficient approach, well it is. And this is where Computer Science ties in. Computer Science is all about solving puzzles like this. How could we design a program that solves Sudoku in a faster, smarter way? Of course for small puzzles like this 9x9 square, our computers are powerful enough to solve it in under a second, even with our naive approach. But what about a 16x16 square? A 49x49 square? A 100x100 square? As the size of the problem increases, the time needed to solve it increases dramatically, as the computer would need to make more and more guesses before arriving at the correct solution.</p>
             <div>
                 <img src="sudokuanimated.gif" height="200px"  alt="sudoku">
             </div>
@@ -81,8 +81,7 @@
     </div>
     <div id="8"class="slide">
         <div>
-            <p>Now your might be thinking, "That's cool and all, but why do we care about being able to solve Sudoku puzzles quickly?" Well, the reason we chose Sudoku as an example is a significant. The underlying problem of solving Sudoku is actually tied to a plethora (plethora means "a wide range of". We teach English vocab too!) of other problems. Many of these problems have real world applications, like finding the shortest path from one destination to another, or protein folding in Biology. The important thing is, all these problems actually reduce to the SAME problem, the very same one that is at the heart of solving Sudoku. So if you come up with a particularly efficient and "smart" way of solving Sudoku, you can apply that technique to protein folding and cure cancer! Easier said then done, right? <br><br>Whether or not you can create an efficient way to solve Sudoku is one of the greatest unanswered mysteries in Computer Science and Mathematics, and is known as the P vs NP problem. That's a little bit complicated for us at the moment, so we'll save that for a later chapter. But we hope to have convinced you that Computer Science is the science of puzzle solving, and can be a whole lot of fun. Before we end this lesson, we'll move on to a hands on example, so press the right arrow key to continue on!</p>
-            <p>Stick an image here</p>
+            <p>Now your might be thinking, "That's cool and all, but why do we care about being able to solve Sudoku puzzles quickly?" Well, we didn't choose the Sudoku example randomly. The underlying problem of solving Sudoku is actually tied to a plethora (plethora means "a wide range of") of other problems. Many of these problems have real world applications, like finding the shortest path from one destination to another, or designing strong encryption algorithms (we'll explain what an algorithm is in more detail later). The important thing is, all these problems can actually be "reduced" to the SAME problem, the very same one that is at the heart of solving Sudoku. So if you come up with a particularly efficient and "smart" way of solving Sudoku, you can translate that technique to generating simulations of protein folding and potentially help cure cancer! Easier said then done, right? <br><br>Whether or not you can create an efficient way to solve Sudoku is one of the greatest unanswered mysteries in Computer Science and Mathematics, and is known as the P vs NP problem. That's a little bit complicated for us at the moment, so we'll save that for a later chapter. We have glossed over <b>MANY</b> important details in regards to the P vs NP problem, and our explanations here will probably make a Mathemetician cringe, but what's a Mathemetician doing reading this anyways... But we hope to have convinced you that Computer Science is the science of puzzle solving, and can be a whole lot of fun. Before we end this lesson, we'll move on to a hands on example, so press the right arrow key to continue on!</p>
         </div>
     </div>
     <div id="9"class="slide">
