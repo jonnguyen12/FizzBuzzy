@@ -20,7 +20,7 @@ function init() {
     }    
     
     var addSlideControls = function() {
-        window.addEventListener('keypress', function(e) {
+        window.addEventListener('keydown', function(e) {
             if(e.keyCode == 39 || e.which == 39) { //right arrowkey
                 console.log('right');
                 window.location = "homepage.html#" + (++currentslide);
@@ -41,6 +41,7 @@ function init() {
     };
 
     addSlideControls();
+    window.onwheel = function(){return false;}; //disable mouse scroll
 
     document.getElementById("helloworld").addEventListener('click', function(e) {
          var string = document.getElementById("code").value;
