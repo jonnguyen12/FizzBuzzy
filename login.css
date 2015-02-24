@@ -1,0 +1,43 @@
+html {
+    font-family: 'Londrina Solid', cursive;    
+}
+
+input {
+    border:solid grey 2px;    
+    width:200px;
+    text-align:center;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 22px;
+    color: #7D7D7D;
+}
+
+#about {
+    display:block;
+    width:70%;
+    height: 400px;
+    text-align:center;
+    margin:auto;
+    border-top: solid #A61010 2px;
+    margin-top:20px;
+}
+
+#about div {
+    margin-top:20px;
+    display:inline-block;
+    border: solid #A61010 2px;
+    width:30%;
+    height:80%;
+    font-size: 18px;
+    color:black;
+}
+
+#usernamediv, #passworddiv {
+    height:50px;
+    display:block;
+    text-align:center;
+    font-size: 22px;
+}
+
+#signupbutton:hover, #loginbutton:hover {
+    cursor:pointer;
+}
