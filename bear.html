@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dancing Bear</title>
+    <link rel="stylesheet" href="bear.css">
+    <link href='http://fonts.googleapis.com/css?family=Londrina+Solid' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script src="bear.js"></script>
+</head>
+<body>
+    <div style="width:60%;margin:auto;display:block;">
+        <div style="margin:auto;background-color:red;font-size:56px;color:white;text-align:center;">
+            IF STATEMENT
+        </div>
+        <div id="beardiv" style="margin-top:20px;display:inline-block;font-size:36px;position:relative;">
+            if(spacebar) {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;dance();<br>    
+            }
+        </div>
+        <div style="float:right;">
+            <img id="1" src="frame1.png" alt="1"> 
+            <img id="2" src="frame2.png" alt="2" hidden>
+            <img id="3" src="frame3.png" alt="3" hidden>
+            <img id="4" src="frame4.png" alt="4" hidden>
+            <img id="5" src="frame5.png" alt="5" hidden>
+            <img id="6" src="frame6.png" alt="6" hidden>
+        </div>
+    </div>
+    <script>
+        (function() {
+            init();    
+        })();
+    </script>
+</body>
+</html>
