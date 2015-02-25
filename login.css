@@ -25,10 +25,14 @@ input {
     margin-top:20px;
     display:inline-block;
     border: solid #A61010 2px;
-    width:30%;
+    width:225px;
     height:80%;
     font-size: 18px;
     color:black;
+}
+
+#about img {
+    border-bottom: solid #A61010 2px;
 }
 
 #usernamediv, #passworddiv {
