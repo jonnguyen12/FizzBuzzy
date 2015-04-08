@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e89215fd-e03a-4170-889f-5bf13d7be418" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Utilities/CookieUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Utilities/CookieUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Controllers/StudentController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Controllers/StudentController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/dancingbear.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dancingbear.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/spiderman.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/spiderman.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/studying.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/studying.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/login_thanks.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login_thanks.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/profile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/profile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Controllers/StudentController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/thanks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Controllers/StudentController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/thanks.jsp" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/META-INF/context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/.netbeans_automatic_build" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/.netbeans_update_resources" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/.netbeans_update_resources" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Controllers/StudentController.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Controllers/StudentController.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Database/StudentDB.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Database/StudentDB.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Models/Lesson.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Lesson.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Models/Progress.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Progress.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Models/Student.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Student.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/includes/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/footer.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/includes/header.html" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/index.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/styles/main.css" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/styles/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/thanks.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/thanks.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/ant-deploy.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/ant-deploy.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/build-impl.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/build-impl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/genfiles.properties" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/genfiles.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/private/private.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/private/private.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/project.properties" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/project.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/project.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/project.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/conf/MANIFEST.MF" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/conf/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Controllers/StudentController.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Controllers/StudentController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Database/StudentDB.java" afterPath="$PROJECT_DIR$/src/Database/StudentDB.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Models/Lesson.java" afterPath="$PROJECT_DIR$/src/Models/Lesson.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Models/Progress.java" afterPath="$PROJECT_DIR$/src/Models/Progress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Models/Student.java" afterPath="$PROJECT_DIR$/src/Models/Student.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/web/META-INF/context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/includes/footer.jsp" afterPath="$PROJECT_DIR$/web/includes/footer.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/includes/header.html" afterPath="$PROJECT_DIR$/web/includes/header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/index.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/styles/main.css" afterPath="$PROJECT_DIR$/web/styles/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/thanks.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/thanks.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/artifacts/FizzBuzz_Intellij_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/FizzBuzz_Intellij_war_exploded.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/FizzBuzz_Intellij.iml" afterPath="$PROJECT_DIR$/FizzBuzz_Intellij.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/META-INF/context.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/META-INF/context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Database/StudentDB.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Database/StudentDB.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Lesson.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Models/Lesson.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Progress.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Models/Progress.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Student.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Models/Student.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/footer.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/includes/footer.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/header.html" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/includes/header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/styles/main.css" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/styles/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Database/StudentDB.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Database/StudentDB.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Models/Lesson.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Models/Lesson.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Models/Progress.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Models/Progress.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Models/Student.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Models/Student.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Controllers/StudentController.java" afterPath="$PROJECT_DIR$/src/Controllers/StudentController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Database/StudentDB.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Database/StudentDB.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Models/Lesson.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Models/Lesson.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Models/Progress.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Models/Progress.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Models/Student.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Models/Student.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Utilities/CookieUtil.java" afterPath="$PROJECT_DIR$/src/Utilities/CookieUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/META-INF/context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/includes/footer.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/includes/footer.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/includes/header.html" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/includes/header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/styles/main.css" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/styles/main.css" />
+    </list>
+    <ignored path="FizzBuzz_Intellij.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FizzBuzz_Intellij" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63573885">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/profile.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login_thanks.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login_thanks.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.041667">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Progress.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/Progress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CookieUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Utilities/CookieUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentDB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Utilities/CookieUtil.java" />
+        <option value="$PROJECT_DIR$/web/profile.jsp" />
+        <option value="$PROJECT_DIR$/web/login_thanks.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/Controllers/StudentController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="730" />
+    <option name="y" value="23" />
+    <option name="width" value="1190" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzz_Intellij" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FizzBuzzy_Intellij_Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/src/Utilities" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.18">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 8.0.18" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.18" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="FizzBuzz_Intellij:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_18_FizzBuzz_Intellij" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="FizzBuzz_Intellij:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.0.18" />
+    </list>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ToolWindowManager">
+    <frame x="730" y="23" width="1190" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32819384" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20470384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17511013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Progress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utilities/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/profile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.041667">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login_thanks.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63573885">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
