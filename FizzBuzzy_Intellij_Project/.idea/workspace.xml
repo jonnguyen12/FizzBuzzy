@@ -2,104 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e89215fd-e03a-4170-889f-5bf13d7be418" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Utilities/CookieUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Utilities/CookieUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Controllers/StudentController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Controllers/StudentController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/dancingbear.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dancingbear.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/profile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/profile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/spiderman.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/spiderman.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/img/studying.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/studying.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/login_thanks.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/login_thanks.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/profile.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/profile.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Controllers/StudentController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/thanks.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Controllers/StudentController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/thanks.jsp" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/META-INF/MANIFEST.MF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/META-INF/context.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/.netbeans_automatic_build" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/.netbeans_update_resources" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/.netbeans_update_resources" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Controllers/StudentController.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Controllers/StudentController.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Database/StudentDB.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Database/StudentDB.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Models/Lesson.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Lesson.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Models/Progress.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Progress.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/classes/Models/Student.class" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Student.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/includes/footer.jsp" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/footer.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/includes/header.html" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/index.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/styles/main.css" afterPath="$PROJECT_DIR$/out/artifacts/FizzBuzz_Intellij_war_exploded/styles/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/build/web/thanks.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/thanks.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/ant-deploy.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/ant-deploy.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/build-impl.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/build-impl.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/genfiles.properties" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/genfiles.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/private/private.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/private/private.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/project.properties" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/project.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/nbproject/project.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/nbproject/project.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/conf/MANIFEST.MF" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/conf/MANIFEST.MF" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Controllers/StudentController.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Controllers/StudentController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Database/StudentDB.java" afterPath="$PROJECT_DIR$/src/Database/StudentDB.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Models/Lesson.java" afterPath="$PROJECT_DIR$/src/Models/Lesson.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Models/Progress.java" afterPath="$PROJECT_DIR$/src/Models/Progress.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/src/java/Models/Student.java" afterPath="$PROJECT_DIR$/src/Models/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/web/META-INF/context.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/includes/footer.jsp" afterPath="$PROJECT_DIR$/web/includes/footer.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/includes/header.html" afterPath="$PROJECT_DIR$/web/includes/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/index.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/styles/main.css" afterPath="$PROJECT_DIR$/web/styles/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz/web/thanks.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/thanks.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/artifacts/FizzBuzz_Intellij_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/FizzBuzz_Intellij_war_exploded.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/FizzBuzz_Intellij.iml" afterPath="$PROJECT_DIR$/FizzBuzz_Intellij.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/META-INF/context.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/META-INF/context.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Database/StudentDB.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Database/StudentDB.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Lesson.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Models/Lesson.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Progress.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Models/Progress.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/classes/Models/Student.class" afterPath="$PROJECT_DIR$/out/production/FizzBuzz_Intellij/Models/Student.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/footer.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/includes/footer.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/includes/header.html" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/includes/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/artifacts/FizzBuzz_Intellij_war_exploded/styles/main.css" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/styles/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Database/StudentDB.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Database/StudentDB.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Models/Lesson.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Models/Lesson.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Models/Progress.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Models/Progress.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/out/production/FizzBuzz_Intellij/Models/Student.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Models/Student.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Controllers/StudentController.java" afterPath="$PROJECT_DIR$/src/Controllers/StudentController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Database/StudentDB.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Database/StudentDB.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Models/Lesson.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Models/Lesson.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Models/Progress.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Models/Progress.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Models/Student.java" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/src/java/Models/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/src/Utilities/CookieUtil.java" afterPath="$PROJECT_DIR$/src/Utilities/CookieUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/META-INF/context.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/META-INF/context.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/includes/footer.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/includes/footer.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/includes/header.html" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/includes/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../FizzBuzz_Intellij/web/styles/main.css" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/web/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Utilities/CookieUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/img/dancingbear.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/img/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/img/spiderman.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/img/studying.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/login_thanks.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/profile.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Controllers/StudentController.class" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/WEB-INF/classes/Controllers/StudentController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/index.jsp" afterPath="$PROJECT_DIR$/../FizzBuzzy_Netbeans_Project/build/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FizzBuzz_Intellij.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,12 +42,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63573885">
-              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,7 +57,7 @@
       <file leaf-file-name="profile.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/profile.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding />
             </state>
@@ -151,18 +67,18 @@
       <file leaf-file-name="login_thanks.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/login_thanks.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.041667">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.28961748">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -183,7 +99,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#534#535#0" expanded="false" />
+                <element signature="e#559#560#0" expanded="false" />
+                <element signature="e#592#593#0" expanded="false" />
+                <element signature="e#620#621#0" expanded="false" />
+                <element signature="e#654#655#0" expanded="false" />
+                <element signature="e#687#688#0" expanded="false" />
+                <element signature="e#736#737#0" expanded="false" />
+                <element signature="e#780#781#0" expanded="false" />
+                <element signature="e#819#820#0" expanded="false" />
+                <element signature="e#857#858#0" expanded="false" />
+                <element signature="e#916#917#0" expanded="false" />
+                <element signature="e#970#971#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,7 +122,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#640#641#0" expanded="false" />
+                <element signature="e#665#666#0" expanded="false" />
+                <element signature="e#698#699#0" expanded="false" />
+                <element signature="e#726#727#0" expanded="false" />
+                <element signature="e#761#762#0" expanded="false" />
+                <element signature="e#792#793#0" expanded="false" />
+                <element signature="e#840#841#0" expanded="false" />
+                <element signature="e#880#881#0" expanded="false" />
+                <element signature="e#915#916#0" expanded="false" />
+                <element signature="e#946#947#0" expanded="false" />
+                <element signature="e#994#995#0" expanded="false" />
+                <element signature="e#1034#1035#0" expanded="false" />
+                <element signature="e#1066#1067#0" expanded="false" />
+                <element signature="e#1094#1095#0" expanded="false" />
+                <element signature="e#1136#1137#0" expanded="false" />
+                <element signature="e#1170#1171#0" expanded="false" />
+                <element signature="e#1204#1205#0" expanded="false" />
+                <element signature="e#1237#1238#0" expanded="false" />
+                <element signature="e#1286#1287#0" expanded="false" />
+                <element signature="e#1330#1331#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -212,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -256,10 +206,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="730" />
+    <option name="x" value="250" />
     <option name="y" value="23" />
     <option name="width" value="1190" />
-    <option name="height" value="1000" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -284,8 +234,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -424,7 +373,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,12 +579,12 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="730" y="23" width="1190" height="1000" extended-state="0" />
-    <editor active="false" />
+    <frame x="250" y="23" width="1190" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32819384" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -648,8 +598,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20470384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17511013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20470384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17445055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -681,8 +631,226 @@
     <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/profile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login_thanks.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Progress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#534#535#0" expanded="false" />
+            <element signature="e#559#560#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#687#688#0" expanded="false" />
+            <element signature="e#736#737#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#819#820#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#916#917#0" expanded="false" />
+            <element signature="e#970#971#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#640#641#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#726#727#0" expanded="false" />
+            <element signature="e#761#762#0" expanded="false" />
+            <element signature="e#792#793#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#946#947#0" expanded="false" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1034#1035#0" expanded="false" />
+            <element signature="e#1066#1067#0" expanded="false" />
+            <element signature="e#1094#1095#0" expanded="false" />
+            <element signature="e#1136#1137#0" expanded="false" />
+            <element signature="e#1170#1171#0" expanded="false" />
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1237#1238#0" expanded="false" />
+            <element signature="e#1286#1287#0" expanded="false" />
+            <element signature="e#1330#1331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utilities/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/profile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login_thanks.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Progress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#534#535#0" expanded="false" />
+            <element signature="e#559#560#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#687#688#0" expanded="false" />
+            <element signature="e#736#737#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#819#820#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#916#917#0" expanded="false" />
+            <element signature="e#970#971#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#640#641#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#726#727#0" expanded="false" />
+            <element signature="e#761#762#0" expanded="false" />
+            <element signature="e#792#793#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#946#947#0" expanded="false" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1034#1035#0" expanded="false" />
+            <element signature="e#1066#1067#0" expanded="false" />
+            <element signature="e#1094#1095#0" expanded="false" />
+            <element signature="e#1136#1137#0" expanded="false" />
+            <element signature="e#1170#1171#0" expanded="false" />
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1237#1238#0" expanded="false" />
+            <element signature="e#1286#1287#0" expanded="false" />
+            <element signature="e#1330#1331#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utilities/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -706,7 +874,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -721,7 +891,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -752,7 +924,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#534#535#0" expanded="false" />
+            <element signature="e#559#560#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#687#688#0" expanded="false" />
+            <element signature="e#736#737#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#819#820#0" expanded="false" />
+            <element signature="e#857#858#0" expanded="false" />
+            <element signature="e#916#917#0" expanded="false" />
+            <element signature="e#970#971#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -760,7 +945,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#640#641#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#726#727#0" expanded="false" />
+            <element signature="e#761#762#0" expanded="false" />
+            <element signature="e#792#793#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#946#947#0" expanded="false" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1034#1035#0" expanded="false" />
+            <element signature="e#1066#1067#0" expanded="false" />
+            <element signature="e#1094#1095#0" expanded="false" />
+            <element signature="e#1136#1137#0" expanded="false" />
+            <element signature="e#1170#1171#0" expanded="false" />
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1237#1238#0" expanded="false" />
+            <element signature="e#1286#1287#0" expanded="false" />
+            <element signature="e#1330#1331#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -772,33 +978,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/profile.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.041667">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/login_thanks.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
@@ -806,8 +996,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controllers/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63573885">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Database/StudentDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28961748">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
