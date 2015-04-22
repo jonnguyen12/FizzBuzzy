@@ -1,4 +1,5 @@
 var $ = (function($) {
+	"use strict";
 	var lessonbody = document.querySelector("#lessonbody"),
 		body = document.querySelector("body"),
 		quiz = document.querySelector("#quiz"),
@@ -33,7 +34,6 @@ var $ = (function($) {
 			answersContainer.className = "answersContainer";
 			answersContainer.appendChild(questionText);
 			answersContainer.appendChild(questionForm);
-			//console.log(choices[choice]);
 			for(i = 0; i < choices.length; i++) {
 			 	inputhtml += '<input name="' + answer + '" type="radio" '; 
 				if(choices[i] === answer) {
