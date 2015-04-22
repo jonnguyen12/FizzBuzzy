@@ -10,7 +10,7 @@
 <body>
 	<section id="header">
 		<a id="home" href="index.jsp">Home</a>
-		<a id="username" href="profile.jsp">${student.username}</a>
+		<a id="username" href="../profile.jsp">${student.username}</a>
 	</section>
 	<section id="title">Lesson 0: First Steps</section>		
 	<section id="lessonbody"></section>
