@@ -1,35 +1,29 @@
 package Models;
 
-import java.io.Serializable;
+import javax.persistence.*;
+import java.util.Collection;
 
 /**
- *
- * @author phucnguyen
+ * Created by phucnguyen on 4/30/15.
  */
-public class Student implements Serializable {
+@Entity
+public class Student {
     private int id;
     private String username;
     private String password;
     private String email;
-    private int progressID;
 
-    public Student() {
-        this.id = 0;
-        this.username = "";
-        this.password = "";
-        this.email = "" ;
-        this.progressID = 0;
-        
-    }
-    
     public Student(String username, String password, String email) {
         this.username = username;
         this.password = password;
         this.email = email;
     }
-    
-    
 
+    public Student() {
+    }
+
+    @Id
+    @Column(name = "id")
     public int getId() {
         return id;
     }
@@ -38,6 +32,8 @@ public class Student implements Serializable {
         this.id = id;
     }
 
+    @Basic
+    @Column(name = "username")
     public String getUsername() {
         return username;
     }
@@ -46,6 +42,8 @@ public class Student implements Serializable {
         this.username = username;
     }
 
+    @Basic
+    @Column(name = "password")
     public String getPassword() {
         return password;
     }
@@ -54,6 +52,8 @@ public class Student implements Serializable {
         this.password = password;
     }
 
+    @Basic
+    @Column(name = "email")
     public String getEmail() {
         return email;
     }
@@ -62,15 +62,49 @@ public class Student implements Serializable {
         this.email = email;
     }
 
-    public int getProgressID() {
-        return progressID;
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Student student = (Student) o;
+
+        if (id != student.id) return false;
+        if (username != null ? !username.equals(student.username) : student.username != null) return false;
+        if (password != null ? !password.equals(student.password) : student.password != null) return false;
+        if (email != null ? !email.equals(student.email) : student.email != null) return false;
+
+        return true;
     }
 
-    public void setProgressID(int progressID) {
-        this.progressID = progressID;
+    @Override
+    public int hashCode() {
+        int result = id;
+        result = 31 * result + (username != null ? username.hashCode() : 0);
+        result = 31 * result + (password != null ? password.hashCode() : 0);
+        result = 31 * result + (email != null ? email.hashCode() : 0);
+        return result;
     }
 
-    
+    private Progress progress;
 
-    
+    @OneToOne(fetch = FetchType.LAZY, optional = false)
+    public Progress getProgress() {
+        return progress;
+    }
+
+    public void setProgress(Progress progress) {
+        this.progress = progress;
+    }
+
+    private Collection<Lesson> lessons;
+
+    @ManyToMany
+    public Collection<Lesson> getLessons() {
+        return lessons;
+    }
+
+    public void setLessons(Collection<Lesson> lessons) {
+        this.lessons = lessons;
+    }
 }
