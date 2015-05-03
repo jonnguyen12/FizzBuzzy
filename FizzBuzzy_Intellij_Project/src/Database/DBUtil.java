@@ -17,4 +17,5 @@ public class DBUtil {
     public static EntityManagerFactory getEntityManagerFactory() {
         return entityManagerFactory;
     }
+
 }
