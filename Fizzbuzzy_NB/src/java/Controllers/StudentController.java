@@ -23,7 +23,36 @@ public class StudentController extends HttpServlet {
 
         // perform action and set URL to appropriate page
         if (action.equals("Login")) {
-            url = "/login_thanks.jsp";
+            // get parameters from the request
+            String email = request.getParameter("email");
+            String username = request.getParameter("username");
+            String password = request.getParameter("password");
+            
+            //store data in Student object
+            Student student = null;
+                              
+            //validate the parameters
+            String message = "";
+            if (username == null || email == null || password == null | username.isEmpty() || password.isEmpty() || email.isEmpty()) {
+                message = "Please fill out all the text boxes";
+                url = "/index.jsp";
+            } else {
+               
+                student = StudentDB.selectStudent(email);
+                
+                if (student == null) {
+                    message = "You don't have any profile yet. Please recheck your credentials"
+                            + " and sign in again, or register for a new account.";
+                    url = "/index.jsp";
+                       
+                } else {
+                    message = "Sign in successfully";
+                    url = "/profile.jsp";
+                }
+
+            }
+            request.setAttribute("student", student);
+            request.setAttribute("message", message);
         } 
         else if (action.equals("Register")) {
             // get parameters from the request
