@@ -19,7 +19,7 @@
 			<c:if test="${message != null}">
 				<p style="color:red;"><i>${message}</i></p>
 			</c:if>
-			<form action="StudentController">
+			<form action="StudentController" method="POST">
 				<%--<input type="hidden" name="action" value="add">--%>
 				<input type="text" placeholder="Username" name="username">
 				<br>

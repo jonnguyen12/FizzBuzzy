@@ -4,10 +4,31 @@
         <servlet-name>StudentController</servlet-name>
         <servlet-class>Controllers.StudentController</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ProgressController</servlet-name>
+        <servlet-class>Controllers.ProgressController</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>LessonController</servlet-name>
+        <servlet-class>Controllers.LessonController</servlet-class>
+    </servlet>
+    
+   
     <servlet-mapping>
         <servlet-name>StudentController</servlet-name>
         <url-pattern>/StudentController</url-pattern>
     </servlet-mapping>
+    
+     <servlet-mapping>
+        <servlet-name>ProgressController</servlet-name>
+        <url-pattern>/ProgressController</url-pattern>
+    </servlet-mapping>
+   
+   <servlet-mapping>
+        <servlet-name>LessonController</servlet-name>
+        <url-pattern>/LessonController</url-pattern>
+    </servlet-mapping>
+   
     <session-config>
         <session-timeout>
             30

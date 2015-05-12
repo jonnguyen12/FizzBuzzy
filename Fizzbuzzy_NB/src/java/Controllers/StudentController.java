@@ -5,6 +5,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 import Database.StudentDB;
+import Database.StudentIO;
 import Models.Student;
 
 public class StudentController extends HttpServlet {
@@ -48,6 +49,7 @@ public class StudentController extends HttpServlet {
                 } else {
                     message = "Sign in successfully";
                     url = "/profile.jsp";
+                    registerStudent(request, response);
                 }
 
             }
@@ -72,6 +74,7 @@ public class StudentController extends HttpServlet {
                 message = "Register successfully";
                 url = "/profile.jsp";
                 StudentDB.insert(student);
+                registerStudent(request, response); //add cookies
 
             }
             request.setAttribute("student", student);
@@ -88,4 +91,52 @@ public class StudentController extends HttpServlet {
             throws ServletException, IOException {
         doPost(request, response);
     }    
+    
+    
+    private String registerStudent (HttpServletRequest request, HttpServletResponse response)
+    {
+        //get the student data
+        String email = request.getParameter("email");
+        String username = request.getParameter("username");
+        String password = request.getParameter("password");
+        
+        //store data in a student object
+        Student student = new Student(username, password, email);
+        
+        //Write the student object to a file
+        ServletContext sc = getServletContext();
+        String path = sc.getRealPath("/WEB-INF/EmailList.txt");
+        StudentIO.add(student, path);
+        
+       
+        //store the student object as a session attribute
+        HttpSession session = request.getSession();
+        session.setAttribute("email", email );
+        session.setAttribute("username", username);
+        session.setAttribute("student", student);
+        
+        //add a cookie that stores the user's email to the browser
+        Cookie c = new Cookie ("emailCookie", email);
+        c.setMaxAge(60 * 60 * 24); // set age to 1 day
+        c.setPath("/");
+        response.addCookie(c);
+        
+        //create and return a URL for the appropriate page
+        String url = "/profile.jsp";
+        return url;
+        
+    }
+    
+    private String deleteCookies (HttpServletRequest request, HttpServletResponse response)
+    {
+        Cookie[] cookies = request.getCookies();
+        for (Cookie cookie : cookies)
+        {
+            cookie.setMaxAge(0);
+            cookie.setPath("/");
+            response.addCookie(cookie);
+        }
+        String url = "/profile.jsp";
+        return url;
+    }
 }

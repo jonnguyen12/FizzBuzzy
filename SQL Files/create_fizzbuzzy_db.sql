@@ -45,17 +45,18 @@ CREATE TABLE Student (
     username VARCHAR (50),
     password VARCHAR (50),
     email VARCHAR(50),
+    score INT NOT NULL,
     PRIMARY KEY (id)
 );
 
 INSERT INTO Student
-(id, username, password, email)
+(id, username, password, email, score)
 VALUES
-(1, 'phucnguyen','helloWorld', 'stylephuc@gmail.com'),
-(2, 'jeffchen', 'gintaman', 'jeffrey.chen2537@gmail.com'),
-(3, 'justin', 'justinuc', 'jkdahmubed@ucdavis.edu'),
-(4, 'patrickdo','patrick', 'patrickspot@hotmail.com'),
-(5, 'andrew', 'andrew01', 'apuentes01@gmail.com');
+(1, 'phucnguyen','helloWorld', 'stylephuc@gmail.com', 1500),
+(2, 'jeffchen', 'gintaman', 'jeffrey.chen2537@gmail.com', 2000),
+(3, 'justin', 'justinuc', 'jkdahmubed@ucdavis.edu', 1000),
+(4, 'patrickdo','patrick', 'patrickspot@hotmail.com', 1000),
+(5, 'andrew', 'andrew01', 'apuentes01@gmail.com', 1000);
 
 CREATE TABLE sequence (
   SEQ_NAME varchar(50) NOT NULL,

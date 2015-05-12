@@ -51,4 +51,20 @@ public class StudentDB {
         }
         return student;
     }
+    
+    public static void updateScore (Student student)
+    {
+        EntityManager em = DBUtil.getEmFactory().createEntityManager();
+        EntityTransaction trans = em.getTransaction();
+
+        try {
+            trans.begin();
+            em.merge(student);
+            trans.commit();
+        } catch (Exception e) {
+            trans.rollback();
+        } finally {
+            em.close();
+        }        
+    }
 }

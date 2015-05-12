@@ -15,6 +15,7 @@ public class Student implements Serializable {
     private String username;
     private String password;
     private String email;
+    private int score;
 
 //    @OneToOne(fetch=FetchType.EAGER, cascade=CascadeType.ALL)
 //    private Progress progress;
@@ -23,6 +24,7 @@ public class Student implements Serializable {
         this.username = "";
         this.password = "";
         this.email = "" ;
+        this.score = 0;
 //        this.progress = null;
     }
 
@@ -30,9 +32,18 @@ public class Student implements Serializable {
         this.username = username;
         this.password = password;
         this.email = email;
+        this.score = 0;
     }
 
-
+    public int getScore()
+    {
+        return score;
+    }
+    
+    public void setScore(int score)
+    {
+        this.score += score;
+    }
 
     public int getId() {
         return id;

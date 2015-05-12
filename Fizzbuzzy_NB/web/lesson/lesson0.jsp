@@ -10,15 +10,16 @@
 <body>
 	<section id="header">
 		<a id="home" href="index.jsp">Home</a>
-		<a id="username" href="profile.jsp">${student.username}</a>
+<!--		<a id="username" href="profile.jsp">${student.username}</a>-->
 	</section>
 	<section id="title">Lesson 0: First Steps</section>		
 	<section id="lessonbody"></section>
 	<section id="quiz"></section>
+	<section id="submitcontainer">Submit</section>
 	<section>
-		<form action=""> 
-			<input id="studentname" name="studentname" type="text" hidden value=""></input>
-			<input id="lessonnumber" name="lessonnumber" type="text" hidden value=""></input>
+		<form id="myform" hidden action="ProgressController"> 
+			<input id="studentname" name="studentname" type="text" hidden value="${student.username}"></input>
+			<input id="lessonnumber" name="lessonnumber" type="text" hidden value="0"></input>
 			<input id="quizscore" name="quizscore" type="text" hidden value=""></input>
 		</form>
 	</section>

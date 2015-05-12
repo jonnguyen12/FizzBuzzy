@@ -15,16 +15,29 @@
 			User Profile
 		</section>
 		<section id="profile">
+                    <span style="color:red;"> ${message} </span>
 			<div id="imagerow">
 				<img src="img/spiderman.gif" alt="" height="200px" id="profileimage">
+                         
 				Username: <span>${student.username}</span>
 				<br>
 				Email: <span>${student.email}</span>
+                                <br>
+                                Score: <span>${student.score}</span>
 			</div>
 			<div id="profiledescription">
 
 			</div>
+                        <section id="profile">
+                    <form action="lesson/lesson0.html" method="POST">
+                        <input type="hidden"  name="username" value=${student.username}>
+				<br>
+                                <input type="hidden" name="email" value=${student.email}>
+				<br>
+    <input type="submit" value="Learn now, buddy!">
+                    </form>
 		</section>
+                 </section>
 	</div>
 </body>
 </html>
